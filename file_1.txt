@@ -1,14 +1,9 @@
 class Car {
 
- int d;
- string str; 
- 
-
-  d=10;
-  str="Kisulya";
-
-
 
 Hello branch2;
+
+
+
 
 }
